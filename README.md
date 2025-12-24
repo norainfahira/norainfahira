@@ -20,3 +20,16 @@
  
 - SMK (P) Sultan Ibrahim in Johor Bahru, Johor (2019 - 2024)
   - SPM – Pure Science stream 
+
+---
+
+## 📘 Currently Learning
+- 🧩 C++ (Fundamentals, functions, loops, arrays)
+- 🛠 Git & GitHub (Commit, push, branching)
+- 🖥 VS Code setup, extensions, debugging
+
+---
+
+## 🌐 Contact / Social Media
+- 📩 Email: norainfahira@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/norainfahira
