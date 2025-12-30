@@ -31,5 +31,6 @@
 ---
 
 ## 🌐 Contact / Social Media
-- 📩 Email: norainfahira@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/norainfahira
+- 📩 Email : norainfahira@gmail.com  
+- 💼 LinkedIn : https://www.linkedin.com/in/norainfahira
+- 💻 Website : https://norainfahira.github.io
