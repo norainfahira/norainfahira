@@ -8,7 +8,7 @@
 - 🌱 Still new in programming and trying my best to improve.  
 - 🚀 I enjoy learning new things especially C++ and basic software tools.  
 - 💡 My goal is to build a strong foundation and grow step by step.  
-
+- 📜 Life Quotes : _I don’t want to be chosen loudly. I want to be chosen intentionally._
 ---
 
 ## 🎓 Education
