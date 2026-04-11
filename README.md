@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h2 align="center">Hi there, I'm Nor Ain Fahira 👋</h2>
+<h2 align="center">Hi there, Ain here 👋</h2>
 
 ---
 
