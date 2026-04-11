@@ -24,9 +24,12 @@
 ---
 
 ## 📘 Currently Learning
-- 🧩 C++ (Fundamentals, functions, loops, arrays)
-- 🛠 Git & GitHub (Commit, push, branching)
-- 🖥 VS Code setup, extensions, debugging
+- 📋 SECP2613 - System Analysis and Design (WBL)
+- 🛠 SECR1033 - Computer Organization and Architecture
+- 📊 SECI1143 - Probability and Statistical Data Analysis
+- ⌨️ SECJ1023 - Programming Technique II
+- 🎨 SECV2113 - Human Computer Interaction
+- 📚 UHMS1182 - Appreciation of Ethics and Civilisation
 
 ---
 
