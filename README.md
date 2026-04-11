@@ -33,21 +33,9 @@
 
 ---
 
-## 1. Snake Animation 🐍
+## Activity Graph Card 📊
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/username/username/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/username/username/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/username/username/output/github-snake.svg" />
-</picture>
-
-## 2. Activity Graph Card 📊
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 3. 3D Contribution Graph 🎨
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="800" alt="3D Contributions" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=norainfahira&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
