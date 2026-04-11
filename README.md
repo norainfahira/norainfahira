@@ -18,7 +18,7 @@
 - Kolej Matrikulasi Melaka (July 2024 - May 2025)
   - Physical Science student for 1 year programme.
  
-- SMK (P) Sultan Ibrahim in Johor Bahru, Johor (2019 - 2024)
+- SMK (P) Sultan Ibrahim in Johor Bahru, Johor (January 2019 - February 2024)
   - SPM – Pure Science stream 
 
 ---
