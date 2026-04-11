@@ -35,7 +35,15 @@
 
 ## Activity Graph Card 📊
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=norainfahira&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=norainfahira&bg_color=0a1a2a&color=33ff99&line=3399ff&point=33ff99&area=true&area_color=1155aa&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=norainfahira&bg_color=none&color=00ff88&line=00bfff&point=00ff88&area=true&area_color=003366&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=norainfahira&bg_color=000000&color=00ffcc&line=00ccff&point=00ff99&area=true&area_color=003333&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=norainfahira&bg_color=001a33&color=33ffaa&line=33aaff&point=33ffaa&area=true&area_color=004466&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ---
 
