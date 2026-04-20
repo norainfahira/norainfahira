@@ -37,8 +37,6 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=norainfahira&bg_color=f0f0f0&color=1565C0&line=86A788&point=5a7a5c&area=true&area_color=d4e0d4&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
 ---
 
 ## 🌐 Contact / Social Media
