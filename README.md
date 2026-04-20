@@ -39,6 +39,16 @@
 
 ---
 
+## 📢 To anyone reading this
+
+> "Because not everyone starts with passion or experience.  
+> Some of us are just figuring things out. And that's okay."
+
+If you're also starting from zero — you're not alone.  
+Let's learn together. 🌱
+
+---
+
 ## 🌐 Contact / Social Media
 - 📩 Email : norainfahira@gmail.com  
 - 💼 LinkedIn : https://www.linkedin.com/in/norainfahira
