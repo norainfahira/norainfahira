@@ -10,15 +10,15 @@
 - 👩‍💻 First-year Computer Science (Data Engineering) student @ UTM
 - 🌱 Still new to programming, trying my best to improve every day  
 - 🚀 Currently enjoying: C++ and understanding how computers really work
-- 💡 My goal: Build a strong foundation, grow step by step
-- 📜 Life quote: *"Every error is a lesson."*
+- 💡 My goal : Build a strong foundation, grow step by step
+- 📜 Life quote : *"Every error is a lesson."*
 
 ---
 
 ## 🧠 Familiar With
 🟢 **Basics of:** C++ • HTML • Git/GitHub  
 🟡 **Currently exploring:** System Design • HCI Principles  
-🔵 **Tools I've used:** VS Code • GitHub Desktop
+🔵 **Tools I've used:** VS Code • GitHub Desktop • Visual Studio • R Programming
 
 ---
 
@@ -44,34 +44,12 @@
 
 ---
 
-## 📝 Learning Progress
-- [x] Week 1: Intro to Programming II
-- [ ] Week 2: Functions & Arrays (in progress)
-- [ ] Week 3: Pointers & References
-- [ ] Week 4: Object-Oriented Basics
-
----
-
-## 🎯 Short-term Goals (by July 2026)
-- [ ] Complete Programming Technique II with good understanding
-- [ ] Build 1 simple project (maybe a student grade calculator)
-- [ ] Post 1 thing on LinkedIn about my learning journey
-- [ ] Feel more confident reading documentation
-
----
-
-## 🗣️ Languages
-🇲🇾 Malay (Native)  
-🇬🇧 English (Fluent)  
-_(Learning: Tech jargon and documentation English)_
-
----
-
 ## ⚡ Random facts about me
-- I drink way too much coffee ☕
-- My first error message made me panic for 10 minutes 😂
-- I believe in "progress over perfection"
-- Still figuring out what "Data Engineering" really means 🤫
+- I drink way too much matcha 🍵
+- I believe in "progress over perfection" 🏗️
+- Still figuring out what "Data Engineering" really means 🔍
+- I don't know much yet. But I show up every day. ✨
+- My only competition is who I was yesterday. 🎯
 
 ---
 
