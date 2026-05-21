@@ -16,9 +16,9 @@
 ---
 
 ## 🧠 Familiar With
-🟢 **Basics of:** C++ • HTML • Git/GitHub  
-🟡 **Currently exploring:** System Design • HCI Principles  
-🔵 **Tools I've used:** VS Code • GitHub Desktop • Visual Studio • R Programming
+🟢 **Basics of :** C++ • HTML • Git/GitHub  
+🟡 **Currently exploring :** System Design • HCI Principles  
+🔵 **Tools I've used :** VS Code • GitHub • Visual Studio • R Programming
 
 ---
 
