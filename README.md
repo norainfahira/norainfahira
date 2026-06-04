@@ -9,7 +9,7 @@
 ## 🌿 About Me
 - 👩‍💻 First-year Computer Science (Data Engineering) student @ UTM
 - 🌱 Still new to programming, trying my best to improve every day  
-- 🚀 Currently enjoying: C++ and understanding how computers really work
+- 🚀 Currently enjoying : C++ and understanding how computers really work
 - 💡 My goal : Build a strong foundation, grow step by step
 - 📜 Life quote : *"Every error is a lesson."*
 
@@ -64,7 +64,7 @@
 > "Because not everyone starts with passion or experience.  
 > Some of us are just figuring things out. And that's okay."
 
-If you're also starting from zero — you're not alone.  
+If you're also starting from zero, you're not alone.  
 Let's learn together. 🌱
 
 ---
