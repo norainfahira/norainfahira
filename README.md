@@ -7,7 +7,7 @@
 ---
 
 ## 🌿 About Me
-- 👩‍💻 First-year Computer Science (Data Engineering) student @ UTM
+- 👩‍💻 Computer Science (Data Engineering) student @ UTM
 - 🌱 Still new to programming, trying my best to improve every day  
 - 🚀 Currently enjoying : C++ and understanding how computers really work
 - 💡 My goal : Build a strong foundation, grow step by step
