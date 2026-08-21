@@ -8,7 +8,7 @@
 
 ## 🌿 About Me
 - 👩‍💻 Computer Science (Data Engineering) student @ UTM
-- 🌱 Still new to programming, trying my best to improve every day  
+- 🌱 Trying my best to improve every day  
 - 🚀 Currently enjoying : C++ and understanding how computers really work
 - 💡 My goal : Build a strong foundation, grow step by step
 - 📜 Life quote : *"Every error is a lesson."*
