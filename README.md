@@ -34,13 +34,8 @@
 
 ---
 
-## 📘 Currently Learning
-- 📋 [SECP2613 - System Analysis and Design (WBL)](https://github.com/norainfahira/Year1DegreeMaterials/tree/main/SEMESTER%202/SECP2613%20-%20System%20Analysis%20and%20Design%20(WBL))
-- 🛠 [SECR1033 - Computer Organization and Architecture](https://github.com/norainfahira/Year1DegreeMaterials/tree/main/SEMESTER%202/SECR1033%20-%20Computer%20Organization%20and%20Architecture)
-- 📊 [SECI1143 - Probability and Statistical Data Analysis](https://github.com/norainfahira/Year1DegreeMaterials/tree/main/SEMESTER%202/SECI1143%20-%20Probability%20and%20Statistical%20Data%20Analysis)
-- ⌨️ [SECJ1023 - Programming Technique II](https://github.com/norainfahira/Year1DegreeMaterials/tree/main/SEMESTER%202/SECJ1023%20-%20Programming%20Technique%20II)
-- 🎨 [SECV2113 - Human Computer Interaction](https://github.com/norainfahira/Year1DegreeMaterials/tree/main/SEMESTER%202/SECV2113%20-%20Human%20Computer%20Interaction)
-- 📚 [UHMS1182 - Appreciation of Ethics and Civilisation](https://github.com/norainfahira/Year1DegreeMaterials/tree/main/SEMESTER%202/UHMS1182%20-%20Appreciation%20of%20Ethics%20and%20Civilisation)
+## 📘 Currently Learning (202620271)
+- 🛠️ [SECP3204 - Software Engineering (WBL)](https://github.com/norainfahira/Year2DegreeMaterials/tree/main/SEMESTER%203/SECP3204%20-%20Software%20Engineering%20(WBL))
 
 ---
 
