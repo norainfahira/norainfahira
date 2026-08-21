@@ -37,6 +37,8 @@
 ## 📘 Currently Learning (202620271)
 - 🛠️ [SECP3204 - Software Engineering (WBL)](https://github.com/norainfahira/Year2DegreeMaterials/tree/main/SEMESTER%203/SECP3204%20-%20Software%20Engineering%20(WBL))
 - 🗃️ [SECP2523 - Database (WBL)](https://github.com/norainfahira/Year2DegreeMaterials/tree/main/SEMESTER%203/SECP2523%20-%20Database%20(WBL))
+- 🖥️ [SECP3723 - System Development Technology (WBL)](https://github.com/norainfahira/Year2DegreeMaterials/tree/main/SEMESTER%203/SECP3723%20-%20System%20Development%20Technology%20(WBL))
+- 
 
 ---
 
